@@ -44,4 +44,4 @@ RunTrack: Sistem Pemantau Langkah & Pembakaran Kalori saat Lari
 - Array : Array itu seperti rak penyimpanan yang punya banyak slot. Pada program ini, array digunakan untuk menyimpan data patokan kalori berdasarkan kombinasi jenis kelamin dan kelompok usia. Jadi, program hanya mengambil data dari rak yang sesuai tanpa perlu membuat banyak variabel berbeda.
   
 ## Link Video Demo
-https://youtu.be/t_G36zH5pd8
+https://youtu.be/NxyJwDRcOrI 
