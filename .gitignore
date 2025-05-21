@@ -136,7 +136,7 @@ printf("========================================================================
   //Algoritma menghitung kalori terbakar
     kaloriTerbakar = waktu / 10 * kalori;  
     // Menghitung kalori yang terbakar berdasarkan waktu per 10 menit dan kalori patokan
-    printf("\n- Kalori yang terbakar sebanyak %.f.\n", kaloriTerbakar);
+    printf("\n- Kalori yang terbakar sebanyak %.f kal.\n", kaloriTerbakar);
 
     return;
 }
