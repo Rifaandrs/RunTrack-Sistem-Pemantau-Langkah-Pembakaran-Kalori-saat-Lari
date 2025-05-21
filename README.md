@@ -1,5 +1,5 @@
 # Mini Proyek - Coding untuk Kakak Tingkat
-RunTrack-Sistem-Pemantau-Langkah-Pembakaran-Kalori-saat-Lari
+-----RunTrack: Sistem Pemantau Langkah & Pembakaran Kalori saat Lari-----
 
 ## Identitas Mahasiswa 
 - Nama  : Potjoet Syarifah Malahayati
@@ -18,6 +18,7 @@ RunTrack-Sistem-Pemantau-Langkah-Pembakaran-Kalori-saat-Lari
 > [3:41 PM] Kang Dyka: Ada 2 sebenernya, antara mau langkah atau bakar kalori
 > [3:45 PM] Potjoet S.M: ooaalaah, gitu tooh, okedeh kang
 > [3:45 PM] Potjoet S.M: saya cari konsep
+> [3:47 PM] Kang Dyka: Anjayy
 > [3:47 PM] Kang Dyka: Soksok
 > [12:59 PM] Potjoet S.M: kangg, aku ada 4 opsi buat program nya kira² mau yang mana yaa?
 > [2:53 PM] Kang Dyka: Yang 4 menarik sih, kerasa lebih fungsional
