@@ -1,5 +1,5 @@
 # Mini Proyek - Coding untuk Kakak Tingkat
------RunTrack: Sistem Pemantau Langkah & Pembakaran Kalori saat Lari-----
+RunTrack: Sistem Pemantau Langkah & Pembakaran Kalori saat Lari
 
 ## Identitas Mahasiswa 
 - Nama  : Potjoet Syarifah Malahayati
