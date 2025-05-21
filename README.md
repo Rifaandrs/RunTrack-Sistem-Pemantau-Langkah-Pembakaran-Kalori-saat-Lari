@@ -2,14 +2,14 @@
 RunTrack-Sistem-Pemantau-Langkah-Pembakaran-Kalori-saat-Lari
 
 ## Identitas Mahasiswa 
-Nama  : Potjoet Syarifah Malahayati 
-NIM   : 2404401
-Kelas : 2A PSTI
+- Nama  : Potjoet Syarifah Malahayati
+- NIM   : 2404401
+- Kelas : 2A PSTI
 
 ## Identitas Kakak Tingkat
-Nama: Andyka Yuansyah
-Angkatan: 2021
-Program Studi: PSTI
+- Nama: Andyka Yuansyah
+- Angkatan: 2021
+- Program Studi: PSTI
 
 ## Permintaan Program 
 > [3:34 PM] Kang Dyka: Udah kepikiran ide sih
